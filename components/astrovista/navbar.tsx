@@ -24,6 +24,10 @@ export default function Navbar() {
           href: "/apod",
         },
         {
+          title: "NASA Image & Video",
+          href: "/nasalibrary",
+        },
+        {
           title: "Gallery",
           href: "/gallery",
         },
