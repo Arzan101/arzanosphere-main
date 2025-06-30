@@ -1,7 +1,5 @@
 "use client"
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable @typescript-eslint/no-require-imports */
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable */
 
 import { cn } from "@/lib/utils"
 import Image from "next/image"

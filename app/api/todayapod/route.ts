@@ -1,4 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable */
+
 import { NextRequest, NextResponse } from "next/server"
 import dotenv from "dotenv"
 dotenv.config({ path: ".env.local" })

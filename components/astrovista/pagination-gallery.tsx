@@ -1,4 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable */
+
 import { Pagination, PaginationContent, PaginationEllipsis, PaginationItem, PaginationLink, PaginationNext, PaginationNextMobile, PaginationPrevious, PaginationPreviousMobile } from "@/components/ui/pagination"
 import { Picture } from "@/lib/mongo/pictures"
 

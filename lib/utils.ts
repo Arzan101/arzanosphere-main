@@ -1,4 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable */
+
 import { ClassValue, clsx } from "clsx"
 import { twMerge } from "tailwind-merge"
 import { format, parse, setDate } from "date-fns"

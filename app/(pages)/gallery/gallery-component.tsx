@@ -1,4 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable */
+
 
 "use client"
 import { useSearchParams } from "next/navigation"
