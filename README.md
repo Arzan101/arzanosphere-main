@@ -7,11 +7,11 @@
 
 ## ✨ Features
 
-🌠 Daily Astronomy Pictures: Fetches the latest astronomy images from NASA's APOD API.
-🛰 NASA API Integration: Seamlessly pulls data directly from NASA's resources.
-🎥 Images & Videos Section: Displays a curated gallery of NASA images and videos.
-🌙 Dark Mode: Automatically switches to dark mode while viewing for a comfortable experience.
-📱 Responsive Design: Fully responsive layout that looks great on all devices.
+-🌠 Daily Astronomy Pictures: Fetches the latest astronomy images from NASA's APOD API.
+-🛰 NASA API Integration: Seamlessly pulls data directly from NASA's resources.
+-🎥 Images & Videos Section: Displays a curated gallery of NASA images and videos.
+-🌙 Dark Mode: Automatically switches to dark mode while viewing for a comfortable experience.
+-📱 Responsive Design: Fully responsive layout that looks great on all devices.
 
 ---
 
