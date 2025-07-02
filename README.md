@@ -24,6 +24,7 @@
 ---
 
 ## 🛠️ Installation
+Email ME : arzankhan994@gmail.com
 
 
 ## 🪐 Future Plans
